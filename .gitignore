@@ -27,3 +27,4 @@ doc/
 
 #agent code
 src/threeChess/agents/
+/bin/
